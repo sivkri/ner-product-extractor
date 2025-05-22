@@ -5,10 +5,14 @@ This project extracts structured product specifications — **brand**, **storage
 
 ## project structure
 main.py                  # Main script: extraction + ML classification
+
 Dockerfile               # Docker config
+
 requirements.txt         # Python dependencies
+
 ds_ner_test_case.csv     # Input file
-README.md                
+
+             
 
 
 It supports:
