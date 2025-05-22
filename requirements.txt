@@ -1,0 +1,5 @@
+pandas
+spacy
+scikit-learn
+numpy
+de-core-news-md @ httpsgithub.comexplosionspacy-modelsreleasesdownloadde_core_news_md-3.7.0de_core_news_md-3.7.0-py3-none-any.whl
