@@ -33,6 +33,10 @@ docker run --rm -v "$(pwd)":/app ner-product-extractor
 
 ---
 
+## Run the tests using:
+```
+pytest test_main.py
+```
 
 ML Model : Trains a logistic regression model using TF-IDF features on headline for: Brand, Color, Storage Class (binned GB values)
 
